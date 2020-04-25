@@ -1,0 +1,23 @@
+#btn0, #btn1, #btn2 {
+    background-color:purple;
+    color:white;
+    display:none;
+}
+
+#begin-quiz { 
+    background-color:purple;
+    color:white;
+}
+
+#main {
+height:200px;
+font-size:30px;
+}
+
+#clear-scores {
+    position:fixed;
+}
+
+#userHigh {
+    display:none;
+}
